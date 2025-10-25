@@ -1,6 +1,3 @@
-Here’s a concise, professional version of your README suitable for a 3-minute read:
-
----
 
 # Car Dealership Management System
 
